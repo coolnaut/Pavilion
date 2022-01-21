@@ -121,7 +121,7 @@ git config --global --unset 'user.email'
 在自己的仓库下重新配置
 
 ```bash
-git config user.name `xxx`
+git config user.name `xxx“
 git config user.email `xxx@xxx.com`
 ```
 
