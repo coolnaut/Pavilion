@@ -79,7 +79,7 @@ class AutoreleasePoolPage {
 
 自动释放池就是一个双向链表，AutoreleasePoolPage就是链表的节点，结构是基于栈的结构。AutoreleasePoolPage的图示结构如下：
 
-![page](../img/page.jpeg)
+![page](../../img/page.jpeg)
 
 ![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fblog.ypli.xyz%2Fios%2F_image%2F%25E6%25B7%25B1%25E5%2585%25A5%25E7%2590%2586%25E8%25A7%25A3autoreleasepool%2F18-38-46.png&refer=http%3A%2F%2Fblog.ypli.xyz&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1638502373&t=73ba4071260b5f3ec239fb7147c514e4)
 
